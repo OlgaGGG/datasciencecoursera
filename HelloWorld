@@ -1,5 +1,4 @@
 ## This is a markdown file
 git pull github.com/OlgaGGG/datasciencecoursera
 git add -A
-git commit -m "Just type in anything you want"
-git push https://github.com/yourusername/datasciencecoursera master
+git push https://github.com/OlgaGGG/datasciencecoursera master
